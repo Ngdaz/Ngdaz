@@ -53,7 +53,7 @@
   <a href="https://www.facebook.com/K9NDA/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="K9NDA-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/duynguyen2602/" target="blank">
+  <a href="https://www.linkedin.com/in/ngda/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="K9NDA-linkedin" />
   </a>
   <a href="https://www.instagram.com/ngdaa.__/" target="blank">
