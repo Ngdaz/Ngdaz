@@ -50,16 +50,16 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/K9NDA/" target="blank">
+  <a href="https://www.facebook.com/K9NDA/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="K9NDA-facebook" />
   </a>
-  <a href="https://www.linkedin.com/in/ngda/" target="blank">
+  <a href="https://www.linkedin.com/in/ngda/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="K9NDA-linkedin" />
   </a>
-  <a href="https://www.instagram.com/ngdaa.__/" target="blank">
+  <a href="https://www.instagram.com/ngdaa.__/" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="K9NDA-instagram" />
   </a>
-  <a href="mailto:ngdaaz@gmail.com" target="top">
+  <a href="mailto:ngdaaz@gmail.com" target="_top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="K9NDA-email" />
   </a>
 </div>
