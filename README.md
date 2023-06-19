@@ -84,7 +84,7 @@
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
-[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Nord)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
