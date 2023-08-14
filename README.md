@@ -63,7 +63,7 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="https://www.facebook.com/K9NDA/" target="_blank">
+  <a href="https://www.facebook.com" target="_blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="K9NDA-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/ngda/" target="_blank">
